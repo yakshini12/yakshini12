@@ -114,7 +114,6 @@ An early-stage FastAPI prototype exploring semantic retrieval and language-model
 
 Applied AI/ML, Generative AI applications, retrieval workflows, and practical software engineering.
 
-**Upcoming:** Amazon ML Challenge — Business Entity Resolution.
 
 ## Connect
 
